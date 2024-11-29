@@ -24,6 +24,5 @@ Atualmente estou me especializando em Python, C++ e C#, com um grande interesse 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KauanMPL&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMPL&layout=compact" alt="Top Langs" />
 </div>
 
