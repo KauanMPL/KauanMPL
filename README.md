@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kauan 🦝
+## Olá! Eu sou o Kauan 👋🏼
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan2.k7/)
 
