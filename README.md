@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauan 👋🏼
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan2.k7/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-pavaneli-1a7a47270)
 
 ## Tecnologias que eu uso no meu dia
 
