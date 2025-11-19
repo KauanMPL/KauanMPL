@@ -19,7 +19,7 @@
 
 💻  Estudante de Programação | Desenvolvedor Frontend/Backend | Entusiasta de Tecnologias
 
-Atualmente estou me especializando em Python, C++ e C#, com um grande interesse em C# e SQL. Adoro aprender novas tecnologias e colaborar em projetos de código aberto.
+Atualmente estou me especializando em ADS. Adoro aprender novas tecnologias e colaborar em projetos de código aberto.
 
 ## 📊 GitHub Stats
 
